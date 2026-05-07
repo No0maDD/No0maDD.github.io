@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Offside&family=Oswald:wght@568&family=Pacifico&family=Protest+Strike&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Tektur:wdth,wght@87.5,400..900&display=swap');
+
+
+*{
+    margin: 10;
+    background-color:#8F774F;
+    font-family:Protest Strike;
+    color:white
+}
+article{
+    padding-left: 30px;
+}
+
+h2{
+    padding-left: 30px;
+    font-size: 30px;
+}
+#history {
+    display: flex;
+    justify-content: space-around;         
+}
+header{
+    padding: 10px 5%;
+    background-color:#8F774F;
+    color:white;
+    position:fixed;
+    width:100%;
+    top: 0;
+    left: 0;
+}
+
+header a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+#rain>img {
+    width:1890px;
+    height:1300px;
+}
+
+#history>p {
+    width:650px;
+    font-size: 30px;
+    height: 400px;
+}
+
+#history img{
+    width:  600px;     
+    height: 400px;
+}
+
+figure{
+    font-size: 25px;
+}
+
+#normand {
+    display: flex;
+    justify-content: space-around;
+}
+
+#normand img{
+    width: 600px;
+    height: 400px;
+}
+
+#normand p {
+    width:650px;
+    font-size: 30px;
+    height: 250px;
+}
+
+#history>div{
+    display: flex;
+    flex-direction: column;
+}
+
+#history p{
+    height: 250px;
+    width:650px;
+    font-size: 30px;
+}
+
+#game>p {
+    width:650px;
+    font-size: 30px;
+    height: 400px;
+}
+
+#game{
+    display: flex;
+    justify-content: space-around;
+}
+
+#game>img{
+    width: 600px;
+    height: 400px;
+}
+
+#game2>p {
+    width:650px;
+    font-size: 30px;
+    height: 400px;
+}
+
+#game2{
+    display: flex;
+    justify-content: space-around;
+}
+
+#game2 img{
+    width: 600px;
+    height: 400px;
+}
+
+#heroes {
+    display: flex;
+    justify-content: space-around;
+}
+
+#heroes>p {
+    width:650px;
+    font-size: 30px;
+}
+
+#heroes img{
+    width: 700px;
+    height: 500px;
+}
+
+#ethan {
+    display: flex;
+    justify-content: space-around;
+}
+
+#ethan img{
+    width: 700px;
+    height: 500px;
+}
+
+#ethan>p {
+    width:650px;
+    height: 500px;
+    font-size: 30px;
+}
+
+#madison {
+    display: flex;
+    justify-content: space-around;
+}
+
+#madison img{
+    width: 700px;
+    height: 500px;
+}
+
+#madison>p {
+    width:650px;
+    font-size: 30px;
+}
+
+#jayden {
+    display: flex;
+    justify-content: space-around;
+}
+
+#jayden img{
+    width: 700px;
+    height: 500px;
+}
+
+#jayden>p {
+    width:650px;
+    font-size: 30px;
+}
+
+
+#interview{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
